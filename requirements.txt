@@ -1,0 +1,11 @@
+﻿Package requirements:
+
+
+Numpy 1.18.1 
+Pandas 1.0.3
+Pip 20.2.4
+SQLAlchemy 1.3.20
+Psycopg2  2.8.6
+Scipy 1.4.1
+Pandas-profiling 2.8.0
+Plotly 4.12.0
