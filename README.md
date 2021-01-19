@@ -25,7 +25,10 @@ The default is:
 target_dir = 'datasets/'
 
 
-
 Filename Requirements
 requirements.txt / Package requirements
+
+**Please, pay attention:**
+
+Sometimes GitHub fails to render the *.ipynb notebooks and you get the message *"Sorry, something went wrong. Reload?"*, etc when trying to view a *.ipynb on a GitHub page. In this case, [you can use a workaround.](https://github.com/Aliona88/analysis_trending_advertising_videos/blob/master/if_notebook_not_loaded.md#a-workaround)
 
