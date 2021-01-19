@@ -11,9 +11,9 @@ The interactive dashboard is made with Jupyter and Tableau and answers questions
 
 The project consists of 3 parts:
 
-Project Implementation
-Project Infographic
-Project Dashboard
+* Project Implementation
+* Project Infographic
+* Project Dashboard
 
 Project Dashboard is published on Tableau Public. [Link to the dashboard](https://public.tableau.com/profile/aliona808#!/vizhome/VideoTrendsonYouTube/VideoTrendsonYouTubeNov2017-Jun2018)
 
